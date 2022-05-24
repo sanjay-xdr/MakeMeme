@@ -1,0 +1,22 @@
+.meme-img{
+    width: 100%;
+    max-width: 400px;
+    height: 400px;
+          
+    }
+
+ .container{
+     margin: 21px;
+ }   
+
+.link-btn{
+    display: inline-block;
+    background-color: #232323;
+    height: 30px;
+    width: 70px;
+    margin: 4px 8px;
+    padding: 4px 8px;
+    font-size: 18px;
+    color: aliceblue;
+    text-decoration: none;
+}   

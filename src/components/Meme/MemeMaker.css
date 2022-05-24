@@ -1,0 +1,24 @@
+.App{
+    display: flex;
+}
+
+.meme-editor{
+    display: flex;
+ 
+    flex:0.2;
+    flex-direction: column;
+    background-color: #4b5563;
+    width: 40rem;
+    height: 50rem;
+    padding: 16px;
+}
+
+.meme-result{
+    display: flex;
+   
+    width: 40rem;
+    height: 50rem;
+    flex: 0.8;
+    background-color:#4b5563;
+    padding: 16px;
+}
