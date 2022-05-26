@@ -15,6 +15,12 @@ const memeDB = {
         imgSrc:
           "https://user-images.githubusercontent.com/55450200/169446043-4a9a9dc9-bd38-427c-9e50-12f846de4c1c.jpg"
       },
+        {
+        id: uuid(),
+        name: "demo",
+        imgSrc:
+          "https://user-images.githubusercontent.com/55450200/169446043-4a9a9dc9-bd38-427c-9e50-12f846de4c1c.jpg"
+      },
   ]
 };
 
